@@ -1,0 +1,1 @@
+this file containes db connetion details 
